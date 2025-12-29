@@ -6,6 +6,6 @@
 - Right-click on page.
 - Inspect
 - Console
-- Enter enterGabe()
+- Enter enterGame()
 
 - Enjoy!
